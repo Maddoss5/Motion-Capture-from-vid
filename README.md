@@ -18,3 +18,7 @@ Program detecting the landmarks
 
 After writing the file for animation , we use a function of 33 variables in script for software like blender/maya/unreal engine/unity etc. Note- Some softwares take Y axis from top to bottom and others bottom to top .
 
+
+The python script for these 3d animation software should be fairly easy and should follow-
+$x=getnodelocation(node number y)$
+$nodelocation for y= x$ 
