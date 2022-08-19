@@ -20,5 +20,7 @@ After writing the file for animation , we use a function of 33 variables in scri
 
 
 The python script for these 3d animation software should be fairly easy and should follow-
-$x=getnodelocation(node number y)$
-$nodelocation for y= x$ 
+
+$x$=getnodelocation(node number y)
+
+nodelocation for y= $x$ 
